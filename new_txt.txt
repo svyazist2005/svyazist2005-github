@@ -3,3 +3,6 @@ C:\Program Files\Perforce
 C:\Program Files\PerforceC:\Program Files\Perforce
 C:\Program Files\PerforceCC:\Program Files\PerforceC
 
+C:\Program Files\Perforce
+
+
