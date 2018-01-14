@@ -1,3 +1,6 @@
+rebase branch changes 3
+rebase branch changes 3
+
 rebase branch changes 2
 rebase branch changes
 
