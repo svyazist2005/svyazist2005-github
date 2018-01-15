@@ -14,9 +14,7 @@ Rebase conflict 2
 
 C:\Program Files\PerforceC:\Program Files\PerforceC:\Program Files\PerforceC:\Program Files\Perforce
 
-C:\Program Files\PerforceC:\Program Files\Perforce
-C:\Program Files\PerforceCC:\Program Files\PerforceC
-
+C:\Program Files\
 C:\Program Files\Perforce
 
 C:\Program Files\Perforce
