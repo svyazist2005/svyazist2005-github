@@ -1,3 +1,4 @@
+Rebase conflict 1
 master conflict changes
 rebase changes 4
 rebase branch changes 3
