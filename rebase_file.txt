@@ -1,9 +1,10 @@
+rebase line
 master line
 
 master line 0.5
 
 master line 2
 
-master line 2.5
-
 master line 3
+
+rebase line 2
