@@ -19,3 +19,4 @@ C:\Program Files\Perforce
 
 C:\Program Files\Perforce
 
+master conflict 2
