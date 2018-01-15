@@ -10,6 +10,7 @@ rebase branch changes
 this changes made from mybranch
 new content on board
 
+Rebase conflict 2
 
 C:\Program Files\PerforceC:\Program Files\PerforceC:\Program Files\PerforceC:\Program Files\Perforce
 
