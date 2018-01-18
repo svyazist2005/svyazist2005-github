@@ -21,3 +21,5 @@ C:\Program Files\Perforce
 C:\Program Files\Perforce
 
 master conflict 2
+
+stash changes 4
