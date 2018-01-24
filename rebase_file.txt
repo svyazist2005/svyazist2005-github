@@ -16,3 +16,5 @@ stash changes
 rebase and stash 
 
 some text 
+
+master comment
