@@ -12,3 +12,7 @@ master line 3
 rebase line 2
 
 stash changes
+
+rebase and stash 
+
+some text 
