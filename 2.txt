@@ -1,3 +1,5 @@
+Some changes to file
+
 not stash related changes
 
 stash related changes
